@@ -9,7 +9,7 @@ An end-to-end Python automation pipeline designed to streamline lead generation 
 * **Data Processing & Cleaning:** Leverages Pandas to clean, format, and structure the scraped data into an easy-to-use CSV file.
 * **Dynamic Email Templating:** Injects personalized data (like First Name, Company, etc.) from the CSV directly into a custom HTML email template.
 * **Zero-Cost Bulk Emailing:** Bypasses expensive email marketing software by utilizing the official Gmail API to send emails directly from a standard, free Gmail account.
-* **Google Workspace Integration:** Uses the Google Drive API and Gmail API for seamless file handling and email delivery.
+* **Google API Integration:** Uses the Google Drive API and Gmail API for seamless file handling and email delivery.
 
 ## 🛠️ Tech Stack
 
